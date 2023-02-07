@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 echo "ALX School"
 =======
  echo "ALX"
 >>>>>>> Stashed changes
+=======
+ echo "ALX School is so cool!"
+>>>>>>> origin/main
